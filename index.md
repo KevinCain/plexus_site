@@ -1,4 +1,5 @@
-![Splash image]((https://github.com/KevinCain/plexus_site/plexus_splash.jpg)
+![Splash image]((https://github.com/KevinCain/plexus_site/plexus_splash.jpg))
+![Splash image]((https://static01.nyt.com/images/2021/01/30/business/29musk-print/merlin_133348470_4909550a-2f4a-4c38-80b1-969f8306dfba-superJumbo.jpg))
 
 ## Welcome to GitHub Pages
 
